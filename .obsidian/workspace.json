@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "0ab4268c74385eda",
+    "type": "split",
+    "children": [
+      {
+        "id": "1603eee838064391",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58ecbd9c385c2316",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03. Projects/0 (global)/1. Concept Presentation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Concept Presentation"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d873f54d19b5b721",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5585818c37c5f521",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02396d5d3a8d7536",
+    "type": "split",
+    "children": [
+      {
+        "id": "421b393d47cce4d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb6b4f67e8c5ce8a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ebf4e31ef05de390",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a98923e60d8bc442",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3ce1ae4ed0749532",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc4d079ed1353797",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3f681be23829f76",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "2dae2be4d3c40f6a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "9928e0382cece79e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0166a43debfaddaa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "58ecbd9c385c2316",
+  "lastOpenFiles": [
+    "03. Projects/0 (global)/0. Tutorial.md",
+    "02. Notes/0 (global)/0. first note.md",
+    "01. Resources/0 (global)/0. First Note.md",
+    "00. Thoughts/0 (global)/0. First Idea.md",
+    "03. Projects/0 (global)/1. Concept Presentation.md",
+    "Welcome.md",
+    "03. Projects/Flutter",
+    "03. Projects/0 (global)",
+    "02. Notes/Flutter",
+    "02. Notes/0 (global)",
+    "01. Resources/Flutter",
+    "Untitled",
+    "01. Resources/0 (global)",
+    "00. Thoughts/Flutter",
+    "00. Thoughts/0 (global)",
+    "98. Template"
+  ]
+}
