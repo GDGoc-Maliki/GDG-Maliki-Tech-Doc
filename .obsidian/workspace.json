@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Projects/0 (global)/1. Concept Presentation.md",
+                "file": "03. Projects/0 (global)/0. Tutorial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Concept Presentation"
+              "title": "0. Tutorial"
             }
           }
         ]
@@ -180,11 +180,11 @@
   },
   "active": "58ecbd9c385c2316",
   "lastOpenFiles": [
+    "03. Projects/0 (global)/1. Concept Presentation.md",
     "03. Projects/0 (global)/0. Tutorial.md",
     "02. Notes/0 (global)/0. first note.md",
     "01. Resources/0 (global)/0. First Note.md",
     "00. Thoughts/0 (global)/0. First Idea.md",
-    "03. Projects/0 (global)/1. Concept Presentation.md",
     "Welcome.md",
     "03. Projects/Flutter",
     "03. Projects/0 (global)",
